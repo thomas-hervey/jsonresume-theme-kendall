@@ -1,4 +1,35 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800);
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap') format('swap');
+  font-display: swap; /* Ensures text is visible while loading */
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap') format('swap');
+  font-display: swap; /* Ensures text is visible while loading */
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap') format('swap');
+  font-display: swap; /* Ensures text is visible while loading */
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  src: url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap') format('swap');
+  font-display: swap; /* Ensures text is visible while loading */
+}
+
 @charset "utf-8";
 @-webkit-viewport   { width: device-width; }
 @-moz-viewport      { width: device-width; }
